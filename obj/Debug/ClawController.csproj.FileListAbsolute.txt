@@ -1,0 +1,18 @@
+C:\Users\Pablo\Documents\Visual Studio 2015\Projects\COMReader\ClawController\bin\Debug\ClawController.exe.config
+C:\Users\Pablo\Documents\Visual Studio 2015\Projects\COMReader\ClawController\bin\Debug\ClawController.exe
+C:\Users\Pablo\Documents\Visual Studio 2015\Projects\COMReader\ClawController\bin\Debug\ClawController.pdb
+C:\Users\Pablo\Documents\Visual Studio 2015\Projects\COMReader\ClawController\obj\Debug\ClawController.Properties.Resources.resources
+C:\Users\Pablo\Documents\Visual Studio 2015\Projects\COMReader\ClawController\obj\Debug\ClawController.csproj.GenerateResource.Cache
+C:\Users\Pablo\Documents\Visual Studio 2015\Projects\COMReader\ClawController\obj\Debug\ClawController.exe
+C:\Users\Pablo\Documents\Visual Studio 2015\Projects\COMReader\ClawController\obj\Debug\ClawController.pdb
+C:\Users\Pablo\Documents\Visual Studio 2015\Projects\COMReader\ClawController\obj\Debug\ClawController.csprojResolveAssemblyReference.cache
+C:\Users\Pablo\Documents\Visual Studio 2015\Projects\COMReader\ClawController\obj\Debug\ClawController.ClawControllerForm.resources
+C:\Users\Pablo\Desktop\ClawController\bin\Debug\ClawController.exe.config
+C:\Users\Pablo\Desktop\ClawController\obj\Debug\ClawController.exe
+C:\Users\Pablo\Desktop\ClawController\obj\Debug\ClawController.pdb
+C:\Users\Pablo\Desktop\ClawController\bin\Debug\ClawController.exe
+C:\Users\Pablo\Desktop\ClawController\bin\Debug\ClawController.pdb
+C:\Users\Pablo\Desktop\ClawController\obj\Debug\ClawController.csprojResolveAssemblyReference.cache
+C:\Users\Pablo\Desktop\ClawController\obj\Debug\ClawController.ClawControllerForm.resources
+C:\Users\Pablo\Desktop\ClawController\obj\Debug\ClawController.Properties.Resources.resources
+C:\Users\Pablo\Desktop\ClawController\obj\Debug\ClawController.csproj.GenerateResource.Cache
